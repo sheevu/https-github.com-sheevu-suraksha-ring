@@ -1,0 +1,11 @@
+Suraksha Ring : 
+
+SETUP
+
+npm create vite@latest suraksha-ring -- --template react
+cd suraksha-ring
+npm install
+npm install -D tailwindcss postcss autoprefixer
+npx tailwindcss init -p
+npm install framer-motion lucide-react
+
